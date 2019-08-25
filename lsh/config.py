@@ -1,0 +1,1 @@
+STOCKFISH_PATH = "/home/ubuntu/Downloads/stockfish-10-linux/Linux/stockfish_10_x64"
